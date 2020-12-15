@@ -1,0 +1,43 @@
+.nav{
+
+    padding-bottom: 10px;
+}
+.container.flex-center{
+padding-top: 10%;
+padding-bottom: 2%;
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+justify-content: center;
+align-items: center;
+align-content: center;
+}
+
+
+.content{
+    text-align: center;
+}
+
+.container.search{
+    padding-left: 150px;
+    padding-right: 150px;
+
+}
+
+.card{
+    border: transparent;
+    width: 180px;
+}
+.m-b-md
+{
+    padding-bottom: 30px;
+}
+
+img{
+    width: 180px;
+    height: 200px;
+}
+
+.card-body .btn{
+    width:100%;
+}
